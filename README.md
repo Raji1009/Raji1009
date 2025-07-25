@@ -2,7 +2,7 @@
 
 🌱 **Passionate Student & Aspiring Web Developer**  
 Currently learning the ropes of Full Stack Development, sharpening my Data Structures & Algorithms (DSA) skills, and exploring real-world problem solving through code.
-
+ 
 ---
 
 ## 👩‍💻 About Me
