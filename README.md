@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Raji 👋
 
-<!--
-**Raji1009/Raji1009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 **Passionate Student & Aspiring Web Developer**  
+Currently learning the ropes of Full Stack Development, sharpening my Data Structures & Algorithms (DSA) skills, and exploring real-world problem solving through code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🚀 Exploring web development, one project at a time.
+- 🎨 **Frontend:** HTML, CSS, JavaScript  
+- 🛠️ **Backend Fundamentals:** C (logic building in progress!)
+- 🧰 **Tools:** Git, GitHub, VS Code
+
+- 📚 **Currently learning:**  
+    - DSA (Data Structures & Algorithms)  
+    - Git patching & modular development  
+    - Advanced version control workflows
+
+---
+
+## 🌟 Featured Projects
+
+> (Links coming soon! Stay tuned.)
+
+- 🎵 **Spotify UI Clone**  
+  Built a responsive replica of Spotify’s interface using HTML & CSS.
+
+- 🟢 **Simon Says Game**  
+  A fun, memory-based game built with JavaScript.
+
+- 💻 **Portfolio Website** (In Progress)  
+  My digital home to showcase my work & style.
+
+---
+
+## 💡 Fun Facts
+
+- 💭 I blend traditional values with modern tech — old-school grit meets Gen Z drive.
+- 🧩 Love solving logic puzzles, building pixel-perfect UIs, and learning from my mistakes.
+- 🎧 Music is my flow state companion (especially while coding).
+- ✍️ Storyteller at heart: currently crafting a courtroom drama script, “Truth Be Told,” focused on justice and empowerment.
+
+---
+
+## 📫 Connect with Me
+
+- **GitHub:** [Raji1009](https://github.com/Raji1009)
+- **LinkedIn:** (Coming soon)
+- **Portfolio:** (Coming soon)
+
+---
+
+> “Code, create, learn, repeat.”  
+> — Raji
