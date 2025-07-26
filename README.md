@@ -1,55 +1,84 @@
-# Hi there, I'm Rajalakshmi 👋
-
-🌱 **Passionate Student & Aspiring Web Developer**  
-Currently learning the ropes of Full Stack Development, sharpening my Data Structures & Algorithms (DSA) skills, and exploring real-world problem solving through code.
- 
----
-
-## 👩‍💻 About Me
-
-- 🚀 Exploring web development, one project at a time.
-- 🎨 **Frontend:** HTML, CSS, JavaScript  
-- 🛠️ **Backend Fundamentals:** C (logic building in progress!)
-- 🧰 **Tools:** Git, GitHub, VS Code
-
-- 📚 **Currently learning:**  
-    - DSA (Data Structures & Algorithms)  
-    - Git patching & modular development  
-    - Advanced version control workflows
+<h1 align="center">Hey, I'm Rajalakshmi👋</h1>
+<h3 align="center">A passionate developer, dreamer & lifelong learner 🧠💻</h3>
 
 ---
 
-## 🌟 Featured Projects
+### 💫 About Me
 
-> (Links coming soon! Stay tuned.)
-
-- 🎵 **Spotify UI Clone**  
-  Built a responsive replica of Spotify’s interface using HTML & CSS.
-
-- 🟢 **Simon Says Game**  
-  A fun, memory-based game built with JavaScript.
-
-- 💻 **Portfolio Website** (In Progress)  
-  My digital home to showcase my work & style.
+- 🎓 Student exploring the world of **Web Development** & **Data Structures**
+- 🌱 Currently focusing on:
+  - UI Design & DOM Manipulation
+  - C-based DSA concepts like Trees, Graphs, Sorting, etc.
+  - Version control with Git & GitHub
+- 🎯 Goal: Become a **Full Stack Developer** & contribute to impactful tech
 
 ---
 
-## 💡 Fun Facts
+### ⚙️ Skills & Tech Stack
 
-- 💭 I blend traditional values with modern tech — old-school grit meets Gen Z drive.
-- 🧩 Love solving logic puzzles, building pixel-perfect UIs, and learning from my mistakes.
-- 🎧 Music is my flow state companion (especially while coding).
-- ✍️ Storyteller at heart: currently crafting a courtroom drama script, “Truth Be Told,” focused on justice and empowerment.
+<div align="center">
+
+#### 💻 Languages
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+#### 🎨 Frontend
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+#### 🧠 DSA & Problem Solving
+<img src="https://img.shields.io/badge/Arrays-FFA500?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Linked_Lists-FF6347?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Trees-32CD32?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphs-1E90FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sorting_Algorithms-9370DB?style=for-the-badge"/>
+
+#### 🛠️ Tools & Workflow
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code"/>
+
+</div>
 
 ---
 
-## 📫 Connect with Me
+### 📂 My Projects
 
-- **GitHub:** [Raji1009](https://github.com/Raji1009)
-- **LinkedIn:** (Coming soon)
-- **Portfolio:** (Coming soon)
+- 🎵 **Spotify UI Clone** – Recreated Spotify’s layout using HTML & CSS
+- 🧠 **Simon Game** – Memory game made with JavaScript
 
 ---
 
-> “Code, create, learn, repeat.”  
-> — Raji
+### ✍️ A Bit More About Me
+
+- 🧠 I mix **old-school values** with **modern coding energy**  
+- 🎙️ Quirky. Grounded. Fun.
+- 🎧 Music + Code = flow state forever
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raji1009&show_icons=true&theme=github_dark" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Raji1009&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
+</p>
+
+---
+
+### 📬 Let's Connect
+
+<p align="left">
+  <a href="mailto:your.email@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourlinkedin"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+
+### 💬 Favorite Quote
+
+> *"Code slowly. Think deeply. Build something that matters."*
+
+<p align="center">🛠️ Building one bug, one commit, and one breakthrough at a time 🚀</p>
+
