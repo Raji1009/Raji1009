@@ -8,7 +8,7 @@
 - 🎓 Student exploring the world of **Web Development** & **Data Structures**
 - 🌱 Currently focusing on:
   - UI Design & DOM Manipulation
-  - C-based DSA concepts like Trees, Graphs, Sorting, etc.
+  - C & JAVA Based DSA concepts like Trees, Graphs, Sorting, etc.
   - Version control with Git & GitHub
 - 🎯 Goal: Become a **Full Stack Developer** & contribute to impactful tech
 
