@@ -70,8 +70,7 @@
 ### 🧠 LeetCode
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Rajalakshmi_10?theme=dark&ext=heatmap" width="48%" />
-<img src="https://leetcode-stats-six.vercel.app/?username=Rajalakshmi_10&theme=dark" width="48%" />
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?Rajalakshmi_10=YOUR_USERNAME&theme=dark)
 
 </div>
 
