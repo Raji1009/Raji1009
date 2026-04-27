@@ -67,6 +67,13 @@
 </p>
 
 ---
+### 🧠 LeetCode
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=dark&ext=heatmap" width="48%" />
+<img src="https://leetcode-stats-six.vercel.app/?username=YOUR_USERNAME&theme=dark" width="48%" />
+
+</div>
 
 ### 📬 Let's Connect
 
